@@ -14,3 +14,12 @@ with google colab:
 
 Note:
 data-tool.zip is not required to run program, but included as it generates yelp_10 and yelp_20 from yelp dataset: https://www.yelp.com/dataset
+
+Code authors:
+dharahas10
+- diffnet-main
+- data-tools
+- data
+original source: https://github.com/dharahas10/diffnet
+johnwang21
+- diffnet_v2_all_complete.ipynb 
