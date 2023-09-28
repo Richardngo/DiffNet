@@ -18,11 +18,11 @@ Note:
 data-tool.zip is not required to run program, but included as it generates yelp_10 and yelp_20 from yelp dataset: https://www.yelp.com/dataset
 
 Code authors:
-dharahas10
+dharahas10 (main author)
 - diffnet-main
 - data-tools
 - data (yelp_10 yelp-20)
 original source: https://github.com/dharahas10/diffnet
-johnwang21
+johnwang21 (validated code and setup cloud environment)
 - diffnet_v2_all_complete.ipynb 
 - diffnet-TPU-ONLY.zip
