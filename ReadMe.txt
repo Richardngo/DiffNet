@@ -10,7 +10,7 @@ with google colab:
 1. use google colab file: diffnet_v2_all_complete.ipynb 
 2. unzip diffnet-main.rar to google colab file directory (commands in diffnet_v2_all_complete.ipynb ) 
 3. unzip data (yelp_10 and yelp_20) into src\data
-4. run google colab file 
+4. run: google colab file 
 
 Note:
 data-tool.zip is not required to run program, but included as it generates yelp_10 and yelp_20 from yelp dataset: https://www.yelp.com/dataset
