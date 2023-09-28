@@ -9,9 +9,10 @@ without google colab (requires env setup):
 
 with google colab (no environment setup):
 1. use google colab file: diffnet_v2_all_complete.ipynb 
-2. unzip diffnet-main.rar to google colab file directory (commands in diffnet_v2_all_complete.ipynb ) 
+2. unzip diffnet-TPU-ONLY.zip to google colab file directory (commands in diffnet_v2_all_complete.ipynb ) 
 3. unzip data (yelp_10 and yelp_20) into src\data
-4. run: google colab file 
+4. ->'runtime' -> 'change runtime type' is set to: -tpu and -high ram (otherwise this will take forver. each run takes 5-8 hours for each of the 8 experiments with tpu and high ram settings)
+5. run: google colab file 
 
 Note:
 data-tool.zip is not required to run program, but included as it generates yelp_10 and yelp_20 from yelp dataset: https://www.yelp.com/dataset
@@ -24,3 +25,4 @@ dharahas10
 original source: https://github.com/dharahas10/diffnet
 johnwang21
 - diffnet_v2_all_complete.ipynb 
+- diffnet-TPU-ONLY.zip
