@@ -19,7 +19,7 @@ Code authors:
 dharahas10
 - diffnet-main
 - data-tools
-- data
+- data (yelp_10 yelp-20)
 original source: https://github.com/dharahas10/diffnet
 johnwang21
 - diffnet_v2_all_complete.ipynb 
