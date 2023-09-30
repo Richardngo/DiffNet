@@ -23,6 +23,6 @@ dharahas10 (main author)
 - data-tools
 - data (yelp_10 yelp-20)
 original source: https://github.com/dharahas10/diffnet
-johnwang21 (validated code and setup cloud environment)
+johnwang21 (code validation and cloud environment)
 - diffnet_v2_all_complete.ipynb 
 - diffnet-TPU-ONLY.zip
